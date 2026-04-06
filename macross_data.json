@@ -1,131 +1,155 @@
 {
-  "collected_at": "2026-04-06T00:00:00",
+  "collected_at": "2026-04-06T04:14:40",
   "items": [
     {
-      "title": "マクロスΔ 10周年記念プロジェクト始動",
-      "summary": "2026年4月3日でTV放送開始10周年を迎えたマクロスΔの記念プロジェクトが正式始動。実田千聖による描き下ろし10周年記念イラストとPVが公開され、今後の展開が注目される。",
-      "url": "https://dengekionline.com/article/202604/70830",
-      "source": "電撃オンライン",
-      "date": "2026-04-03",
-      "category": "news"
-    },
-    {
-      "title": "マクロスF × トップガン マーヴェリック コラボ発表",
-      "summary": "マクロスFと映画トップガン・マーヴェリックの初コラボが実現。「DX超合金 VF-25 メサイアバルキリー トップガン マーヴェリックVer.」が2026年9月発売予定（26,400円）で4月3日より予約開始。バトロイド・ガウォーク・ファイターの3形態に変形可能。",
-      "url": "https://macross.jp/contents/1061318",
-      "source": "MACROSS OFFICIAL SITE",
-      "date": "2026-03-31",
-      "category": "news"
-    },
-    {
-      "title": "マクロスシリーズ新作発表スペシャル放送",
-      "summary": "サンライズ制作によるマクロスシリーズ新作の続報を含む「新作発表スペシャル」が3月2日19時にフジテレビ系列で放送された。アニメ全4シリーズの一挙放送も同時に実施された。",
-      "url": "https://www.famitsu.com/article/202502/34366",
-      "source": "ファミ通",
-      "date": "2026-03-02",
-      "category": "news"
-    },
-    {
-      "title": "ユニオンアリーナ「マクロス」シリーズVol.2（EX14BT）発売決定",
-      "summary": "マクロスダイナマイト7・ゼロ・劇場版マクロスF2作品・マクロスΔを収録したTCG第2弾が2026年6月19日発売予定（BOX 6,160円）。Δキャラデザのまじろによるワルキューレ5名の新規描き下ろしイラストを使用したSR等、計77種＋AP7種。",
+      "title": "ユニオンアリーナ ブースターパック「マクロス」シリーズ Vol.2 発売決定",
+      "summary": "トレーディングカードゲーム「ユニオンアリーナ」のマクロスシリーズ第2弾（EX14BT）が2026年6月19日に発売予定。マクロスダイナマイト7・マクロスゼロ・劇場版マクロスF（2作）・マクロスΔの5作品が収録される。第1弾に続く待望の第2弾で、ファンからの注目度が高い。",
       "url": "https://macross.jp/contents/1037870",
       "source": "MACROSS OFFICIAL SITE",
       "date": "2026-06-19",
+      "category": "news"
+    },
+    {
+      "title": "DX超合金 VF-25 メサイアバルキリー トップガン マーヴェリックVer. 発売予定",
+      "summary": "マクロスFのVF-25メサイアが映画「トップガン マーヴェリック」とコラボし、マーヴェリック機のカラーリングを再現したDX超合金として2026年9月発売予定（価格26,400円税込）。マクロスとハリウッド映画の異色コラボとして話題を集めている。",
+      "url": "https://animeanime.jp/article/2026/04/03/97462.html",
+      "source": "アニメ！アニメ！",
+      "date": "2026-09-01",
       "category": "goods"
     },
     {
-      "title": "DX超合金 VF-31A カイロス マクロスΔ 10th Anniv. 商品化",
-      "summary": "マクロスΔ10周年を記念したBANDAI SPIRITS製「DX超合金 VF-31A カイロス マクロスΔ10th Anniv.」の商品化が発表。10周年の節目にあわせた記念モデル。",
-      "url": "https://macross.jp/contents/1001932",
-      "source": "MACROSS OFFICIAL SITE",
-      "date": "2026-04-03",
+      "title": "HG 1/100 VF-25F メサイアバルキリー（早乙女アルト機）発売",
+      "summary": "バンダイスピリッツのHGマクロスシリーズに、マクロスFの主人公機VF-25F（早乙女アルト機）が2026年3月21日に登場。差替三段変形システムでバトロイド・ガウォーク・ファイターへの変形が可能で、シェリル・ノームのアクスタ付きデラックスセットも同時発売。",
+      "url": "https://hobby.dengeki.com/news/2946087/",
+      "source": "電撃ホビーウェブ",
+      "date": "2026-03-21",
       "category": "goods"
     },
     {
-      "title": "MACROSS POP UP STORE ～あなたとラッピング・パーティー♪～ 開催決定",
-      "summary": "マクロスFとマクロスΔのポップアップストア「MACROSS POP UP STORE ～あなたとラッピング・パーティー♪～」の開催が公式サイトで発表された。詳細な開催期間・場所は公式サイトを参照。",
-      "url": "https://macross.jp/contents/1061855",
+      "title": "HG 1/100 VF-31E ジークフリード（チャック・マスタング機）発売予定",
+      "summary": "バンダイスピリッツのHGマクロスシリーズに、マクロスΔのチャック・マスタング機VF-31Eが2026年6月に発売予定（通常版5,500円・デラックスセット8,250円）。専用成形色と差替三段変形システムを搭載し、頭部形状やレドームに新規造形パーツを採用している。",
+      "url": "https://bandai-hobby.net/site/macrossHG/",
+      "source": "バンダイ ホビーサイト",
+      "date": "2026-06-01",
+      "category": "goods"
+    },
+    {
+      "title": "HG 1/100 VF-25G メサイアバルキリー（ミハエル・ブラン機）発売予定",
+      "summary": "マクロスFのスナイパー・ミハエル・ブラン機がHGプラモデルシリーズに加わり、2026年9月発売予定（通常版5,280円・デラックスセット8,030円）。ランカの描き下ろしイラストを使用したアクリルスタンド付きデラックスセットも展開される。",
+      "url": "https://bandai-hobby.net/item/01_7145/",
+      "source": "バンダイ ホビーサイト",
+      "date": "2026-09-01",
+      "category": "goods"
+    },
+    {
+      "title": "ハセガワ VF-25F トルネード メサイア 2026年7月発売",
+      "summary": "ハセガワからマクロスFのVF-25Fトルネード装備版プラモデルが2026年7月31日発送予定で発売。同シリーズでは早瀬未沙 w/VF-1Sスーパーバルキリー（6月発送）やVF-19EF/Aイサム・スペシャル（6月発送）なども予定されており、2026年は新商品が充実している。",
+      "url": "http://www.hasegawa-model.co.jp/item/chara/macross/",
+      "source": "株式会社ハセガワ",
+      "date": "2026-07-31",
+      "category": "goods"
+    },
+    {
+      "title": "マクロス万国博覧会 東京（池袋サンシャインシティ）開催",
+      "summary": "マクロスシリーズの体験型イベント「マクロス万国博覧会」が2026年1月30日〜4月5日まで池袋サンシャインシティのバンダイナムコCross Store東京で開催。描き下ろしイラストを使ったショップ・ミニゲーム・フォトスポットなど体験型コンテンツが充実しており、入場無料で楽しめる。",
+      "url": "https://sunshinecity.jp/event/entry-36139.html",
+      "source": "池袋・サンシャインシティ オフィシャルサイト",
+      "date": "2026-01-30",
+      "category": "events"
+    },
+    {
+      "title": "マクロス万国博覧会 東京 会場限定マクロス御朱印販売開始",
+      "summary": "マクロス万国博覧会東京会場にて、マクロスキャラクターをモチーフにした会場限定の御朱印の販売が2026年1月30日より決定。ユニークなマクロスコラボ御朱印はコレクターにとっても注目のアイテムとなっている。",
+      "url": "https://macross.jp/contents/1037858",
       "source": "MACROSS OFFICIAL SITE",
-      "date": null,
+      "date": "2026-01-30",
       "category": "events"
     },
     {
-      "title": "マクロスF ポップアップステージ at CG STAR LIVE（池袋）",
-      "summary": "池袋のバンダイナムコ Cross Store 東京にて、シェリル・ノームとランカ・リーが登場する「マクロスF ポップアップステージ」が2026年6月24日（土）〜8月27日（日）の期間開催予定。観覧チケット1枚につきオリジナルノベルティのプレゼントあり。",
-      "url": "https://bandainamco-am.co.jp/am/vg/cgslive/program/popupstage.php",
-      "source": "CG STAR LIVE",
-      "date": "2026-06-24",
+      "title": "マクロス万国博覧会 東京 コスプレイベント開催",
+      "summary": "マクロス万国博覧会の東京会場にて、マクロスシリーズキャラクターのコスプレを楽しめるスペシャルイベントが2026年3月7日（土）・8日（日）の10:00〜18:00に開催。シリーズファンがコスプレで一堂に会する特別企画となった。",
+      "url": "https://event.bandainamco-am.co.jp/cx/macrossbanpaku/",
+      "source": "バンダイナムコ Cross Store",
+      "date": "2026-03-07",
       "category": "events"
     },
     {
-      "title": "映画『迷宮のしおり』2026年1月1日全国ロードショー",
-      "summary": "河森正治初のオリジナル劇場長編アニメーション「迷宮のしおり」が2026年元日に全国公開。スマートフォンをテーマにした異世界脱出青春劇で、サンジゲン制作。主題歌は新しい学校のリーダーズのSUZUKAが担当。東京国際映画祭にも出品された。",
-      "url": "https://gaga.ne.jp/meikyu-shiori/",
-      "source": "映画『迷宮のしおり』公式サイト",
-      "date": "2026-01-01",
+      "title": "河森正治 創作展 フィナーレ 2ショット撮影会（万博記念公園）",
+      "summary": "万博記念公園EXPO'70パビリオンで開催中の「河森正治 創作展 ～万博・合体・変形・未来～」のフィナーレ企画として、2026年2月21日（土）に河森正治監督本人による「いのち球ステッカー」お渡し会と2ショット撮影会が実施された。",
+      "url": "https://www.expo70-park.jp/event/74443/",
+      "source": "万博記念公園",
+      "date": "2026-02-21",
       "person": "kawamori"
     },
     {
-      "title": "『迷宮のしおり』公開記念舞台挨拶（TOHOシネマズ日比谷）",
-      "summary": "2026年1月5日にTOHOシネマズ日比谷で公開記念舞台挨拶が開催。河森正治監督とSUZUKA・伊東蒼・寺西拓人らキャストが和服姿で登壇し、鏡割りで新春の公開を祝った。",
-      "url": "https://v-storage.jp/anime/etc-anime/265222/",
-      "source": "V-STORAGE",
-      "date": "2026-01-05",
-      "person": "kawamori"
-    },
-    {
-      "title": "河森正治 創作展フィナーレイベント（万博記念公園 EXPO'70パビリオン）",
-      "summary": "2026年1月17〜18日に大阪・万博記念公園EXPO'70パビリオンで創作展のフィナーレイベントを開催。17日は私物サイン会を1日4回実施（11:00/12:30/14:00/15:30）、18日はトークショーを1日4回実施した。",
+      "title": "河森正治 創作展 フィナーレ スペシャルサイン会（万博記念公園）",
+      "summary": "「河森正治 創作展」のフィナーレイベントとして、2026年2月28日〜3月1日に私物持ち込み可能なスペシャルサイン会とフィナーレトークセッションが万博記念公園にて開催。コンセプトストアで5,000円以上購入者が対象で、携わった作品グッズへの私物サインも可能。",
       "url": "https://prtimes.jp/main/html/rd/p/000000036.000122231.html",
-      "source": "PRTimes / Vector Vision",
-      "date": "2026-01-17",
+      "source": "PRtimes",
+      "date": "2026-02-28",
       "person": "kawamori"
     },
     {
-      "title": "マクロスF × トップガン コラボについて河森監督がSNSでコメント",
-      "summary": "マクロスシリーズの生みの親である河森正治監督が、VF-25メサイアバルキリーとトップガン・マーヴェリックのコラボ実現について、SNS上で喜びのコメントを発表。ハリウッド映画との初コラボとして大きな反響を呼んでいる。",
-      "url": "https://macross.jp/contents/1061318",
-      "source": "MACROSS OFFICIAL SITE / X(@kawamoriexpo)",
-      "date": "2026-03-31",
+      "title": "河森正治 静岡講演会 ～創作の原点とAI時代の創造性～",
+      "summary": "2026年3月7日（土）に静岡にて、河森正治氏が「創作の原点」から「AI時代の創造性」まで語る講演会とトークセッションが開催。静岡の模型メーカー担当者を交えたパネルトークも実施され、高校生・専門生を主な対象としたプラモデル開発現場に迫る内容も予定された。",
+      "url": "https://www.pref.shizuoka.jp/sangyoshigoto/shokogyoservice/chiikisangyo/1044754/1064332/1079288.html",
+      "source": "静岡県公式ホームページ",
+      "date": "2026-03-07",
       "person": "kawamori"
     },
     {
-      "title": "May'n 20th Anniversary Live Tour 2026「THE BEST of May'n」国内3公演",
-      "summary": "デビュー20周年記念の全国ツアーが2026年3月に実施。3月8日Zepp名古屋、3月15日Zepp難波、3月21日Zepp羽田の計3公演で開催（開場15:30・開演16:15）。各会場でツアーグッズの先行販売も実施。",
+      "title": "May'n 20th Anniversary Live Tour 2026「THE BEST of May'n」名古屋公演",
+      "summary": "May'nのデビュー20周年を記念したライブツアー「THE BEST of May'n」の名古屋公演がZepp Nagoyaで2026年3月8日（日）に開催。代表曲を網羅したベストセレクション構成で、ファンクラブ先行を経て一般販売も実施された。",
       "url": "https://www.sound-c.co.jp/sp/mayn26/",
-      "source": "May'n 20周年スペシャルサイト",
+      "source": "May'n 20th Anniversary Live Tour 2026 公式サイト",
       "date": "2026-03-08",
       "person": "mayn"
     },
     {
-      "title": "May'n 20th Anniversary Live Tour 2026 台北公演",
-      "summary": "20周年ライブツアーの海外公演として、2026年5月10日（日）に台湾・Zepp New Taipeiで台北公演を開催。OPEN 16:30 / START 17:30。",
-      "url": "https://mayn.jp/news/live/mayn-20th-anniversary-live-tour-2026%E3%80%8Cthe-best-of-mayn%E3%80%8D%E5%8F%B0%E5%8C%97%E5%85%AC%E6%BC%94%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+      "title": "May'n 20th Anniversary Live Tour 2026「THE BEST of May'n」大阪公演",
+      "summary": "May'n 20周年ツアーの大阪公演が2026年3月15日（日）にZepp Namba（大阪）で開催。東名阪ツアーの中間地点として多くのファンが来場し、20年間の名曲を凝縮したセットリストが披露された。",
+      "url": "https://www.sound-c.co.jp/sp/mayn26/",
+      "source": "May'n 20th Anniversary Live Tour 2026 公式サイト",
+      "date": "2026-03-15",
+      "person": "mayn"
+    },
+    {
+      "title": "May'n 20th Anniversary Live Tour 2026「THE BEST of May'n」東京公演",
+      "summary": "May'n 20周年ツアーのファイナル東京公演が2026年3月21日（土）にZepp Haneda（東京）で開催。ツアーのクライマックスを飾る東京公演は多数のファンが参加し、20周年の集大成となるステージが実現した。",
+      "url": "https://www.red-hot.ne.jp/play/detail.php?pid=py27459",
+      "source": "HOT STUFF PROMOTION",
+      "date": "2026-03-21",
+      "person": "mayn"
+    },
+    {
+      "title": "May'n 20th Anniversary Live Tour 2026「THE BEST of May'n」香港公演",
+      "summary": "May'n 20周年ツアーのアジア海外公演として、2026年4月25日（土）に香港のPORTALにてライブを開催。VIPチケットも用意され、海外ファンに向けたスペシャルな20周年公演となった。",
+      "url": "https://mayn.jp/news/live/",
+      "source": "May'n Official Site",
+      "date": "2026-04-25",
+      "person": "mayn"
+    },
+    {
+      "title": "May'n 20th Anniversary Live Tour 2026「THE BEST of May'n」台北公演",
+      "summary": "May'n 20周年ツアーの台湾公演が2026年5月10日（日）にZepp New Taipei（台湾・新北市）で開催。台湾のファンクラブ「ふぁんくラ部」向けのチケット予約も受け付けられ、台湾ファンとの20周年記念ステージが実現した。",
+      "url": "https://mayn.jp/news/live/mayn-20th-anniversary-live-tour-2026the-best-of-mayn-taipei/",
       "source": "May'n Official Site",
       "date": "2026-05-10",
       "person": "mayn"
     },
     {
-      "title": "May'n ファンクラブ限定打ち上げパーティー（沖縄）",
-      "summary": "20周年ツアーの締めくくりとして、2026年5月31日に沖縄でFC会員限定の打ち上げパーティーを開催予定。「ライ部」として会員とともに20周年を祝う特別なクロージングイベント。",
-      "url": "https://mayn.jp/news/live/",
-      "source": "May'n Official Site",
-      "date": "2026-05-31",
-      "person": "mayn"
-    },
-    {
-      "title": "中島愛 電気ビル みらいホール（福岡）イベント",
-      "summary": "2026年2月28日に福岡・電気ビル みらいホールで中島愛のイベントが開催。開場16:15・開演17:00。",
-      "url": "https://qun.jp/event/59085",
-      "source": "qun.jp",
+      "title": "中島愛 2026年アコースティックツアー 福岡公演",
+      "summary": "中島愛の2026年アコースティックツアーの福岡公演が2026年2月28日（土）に電気ビルみらいホールで開演17:00（開場16:15）にて開催。親密な空間でのアコースティック編成によるライブが披露された。",
+      "url": "https://nakajima-megumi.jp/live-event/",
+      "source": "中島愛オフィシャルサイト",
       "date": "2026-02-28",
       "person": "nakajima"
     },
     {
-      "title": "Nakajima Megumi Billboard Live 2026 in Yokohama",
-      "summary": "中島愛がバンド編成で初夏のビルボードライブ横浜に登場。2026年6月6日（土）に2回公演（1st 16:00〜・2nd 19:00〜）。中村タイチ（Gt/バンマス）・田辺貴広（Dr）・森田晃平（Ba）・持山翔子（Pf）による5名編成。FC先行チケット：3月30日〜4月5日、一般発売：4月24日から。",
+      "title": "中島愛 Billboard Live 横浜 バンド編成ライブ",
+      "summary": "中島愛が2026年6月6日（金）に横浜のBillboard Liveに出演。ギター・ドラム・ベース・ピアノを含むバンド編成での2年ぶりのBillboard Live出演で、1日2回公演が予定されている。",
       "url": "https://www.billboard-live.com/yokohama/show?event_id=ev-21357",
-      "source": "Billboard Live YOKOHAMA",
+      "source": "Billboard Live",
       "date": "2026-06-06",
       "person": "nakajima"
     }
