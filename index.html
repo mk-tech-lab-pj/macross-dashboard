@@ -221,9 +221,11 @@
 const JSON_URL='./macross_data.json';
 
 // ── Date helpers ──
-function isPast(ds){
-  if(!ds) return false;
-  const d=new Date(ds); if(isNaN(d.getTime())) return false;
+function isPast(it){
+  // date_end があれば終了日で判定（開催期間中は過去扱いしない）
+  const ds=(typeof it==='object')?(it.date_end||it.date):it;
+  if(!ds) return true;
+  const d=new Date(ds); if(isNaN(d.getTime())) return true;
   d.setHours(0,0,0,0); const t=new Date(); t.setHours(0,0,0,0); return d<t;
 }
 function fmtDate(ds){
@@ -231,6 +233,11 @@ function fmtDate(ds){
   try{const d=new Date(ds);if(isNaN(d.getTime()))return ds;
     return d.toLocaleDateString('ja-JP',{year:'numeric',month:'short',day:'numeric'});}
   catch(e){return ds;}
+}
+function fmtDateRange(it){
+  if(it.date_start && it.date_end && it.date_start!==it.date_end)
+    return fmtDate(it.date_start)+'〜'+fmtDate(it.date_end);
+  return fmtDate(it.date_end||it.date);
 }
 function esc(s){
   return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
@@ -243,7 +250,7 @@ function itemHtml(it,pastClass){
   return `<div class="item ${pastClass}">
     <div class="item-top">
       <div class="item-title">${esc(it.title||'無題')}</div>
-      <span class="date-badge">${esc(fmtDate(it.date))}</span>
+      <span class="date-badge">${esc(fmtDateRange(it))}</span>
     </div>
     <div class="item-summary">${esc(it.summary||'')}</div>
     <div class="item-foot"><span class="item-source">${esc(it.source||'')}</span>${link}</div>
@@ -349,7 +356,7 @@ async function loadData(){
 
     const store={news:[],goods:[],events:[],kawamori:[],mayn:[],nakajima:[]};
     for(const it of data.items||[]){
-      const ip={...it,is_past:isPast(it.date)};
+      const ip={...it,is_past:isPast(it)};
       if(it.person && store[it.person]!==undefined) store[it.person].push(ip);
       else if(it.category && store[it.category]!==undefined) store[it.category].push(ip);
     }
