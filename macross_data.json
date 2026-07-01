@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-06-29T00:00:00",
+  "collected_at": "2026-07-01T01:05:51",
   "items": [
     {
       "title": "【マクロスΔ】「POP UP SHOP 絶対SUMMERバカンス!!!!!!」開催決定！",
@@ -219,6 +219,86 @@
       "date": "2026-06-20",
       "date_start": "2026-06-20",
       "date_end": "2026-06-20",
+      "person": "nakajima"
+    },
+    {
+      "title": "【マクロスF】「ギャラライ」LIVE Blu-ray特別展開＆ライブ映像先行上映 アニメイト池袋本店で開催",
+      "summary": "アニメイト池袋本店1階エントランス広場にて、シェリル＆ランカのパネル展示や大型モニターでのライブ映像先行上映を実施。オリジナルポストカードの数量限定配布もあり。",
+      "url": "https://www.jvcmusic.co.jp/flyingdog/-/News2/Z0221/81.html",
+      "source": "FlyingDog",
+      "date": "2026-03-05",
+      "date_start": "2026-02-27",
+      "date_end": "2026-03-05",
+      "category": "events"
+    },
+    {
+      "title": "【マクロスF】「ギャラライ」LIVE Blu-ray特別展示 アニメイト池袋本店6Fで開催",
+      "summary": "アニメイト池袋本店6階にてMay'nと中島愛が着用した衣装展示や163インチモニターでのライブ映像上映を実施。2月開催の特別展開のパネルもアンコール展示。",
+      "url": "https://www.jvcmusic.co.jp/flyingdog/-/News2/Z0221/85.html",
+      "source": "FlyingDog",
+      "date": "2026-05-10",
+      "date_start": "2026-04-28",
+      "date_end": "2026-05-10",
+      "category": "events"
+    },
+    {
+      "title": "【マクロスF】ギャラライ発売記念特番「キラッ☆バースデーパーティー」配信決定",
+      "summary": "「マクロスF ギャラクシーライブ☆ファイナル 2025」Blu-ray発売を記念し、中島愛・May'nが出演する特番をYouTubeマクロスchにて生配信。ゲストに遠藤綾・豊口めぐみも出演。",
+      "url": "https://www.jvcmusic.co.jp/flyingdog/-/News2/Z0221/82.html",
+      "source": "FlyingDog",
+      "date": "2026-05-06",
+      "date_start": "2026-04-29",
+      "date_end": "2026-05-06",
+      "category": "news"
+    },
+    {
+      "title": "河森正治 初のオリジナル劇場長編アニメーション『迷宮のしおり』全国ロードショー",
+      "summary": "河森正治監督初のオリジナル劇場長編アニメ『迷宮のしおり』が全国公開。キャラクターデザインは江端里沙、主人公役は新しい学校のリーダーズのSUZUKAが担当。",
+      "url": "https://shojikawamori.jp/en/news/meikyu-shiori_2026/",
+      "source": "SHOJI KAWAMORI Official Web Site",
+      "date": "2026-01-01",
+      "date_start": "2026-01-01",
+      "date_end": "2026-01-01",
+      "person": "kawamori"
+    },
+    {
+      "title": "May'n「超宇宙刑事ギャバン インフィニティ」主題歌「LOVE IS THE STRONGEST」配信スタート",
+      "summary": "May'nが歌う『超宇宙刑事ギャバン インフィニティ』主題歌が番組放送日の2月15日に配信開始。楽曲は超英雄祭2026 DAY2にてライブ初披露された。",
+      "url": "https://mayn.jp/news/release/%E8%B6%85%E5%AE%87%E5%AE%99%E5%88%91%E4%BA%8B%E3%82%AE%E3%83%A3%E3%83%90%E3%83%B3%E3%80%80%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A3%E3%83%8B%E3%83%86%E3%82%A3-%E4%B8%BB%E9%A1%8C%E6%AD%8C%E3%80%8Elove-is-th/",
+      "source": "May'n Official Site",
+      "date": "2026-02-15",
+      "date_start": "2026-02-15",
+      "date_end": "2026-02-15",
+      "person": "mayn"
+    },
+    {
+      "title": "May'n「カシフェス～KASHIWA PICNIC FES 2026～『英雄歌合戦』」出演決定",
+      "summary": "May'nがアリオ柏で開催の音楽イベント「カシフェス」内の「英雄歌合戦」に出演することが決定。",
+      "url": "https://mayn.jp/news/live/%E3%80%90mayn-%E5%87%BA%E6%BC%94%E6%B1%BA%E5%AE%9A%EF%BC%81%E3%80%915%E6%9C%884%E6%97%A5-%E3%82%AB%E3%82%B7%E3%83%95%E3%82%A7%E3%82%B9%EF%BD%9Ekashiwa-picnic-fes-2026%EF%BD%9E%E3%80%8C%E8%8B%B1/",
+      "source": "May'n Official Site",
+      "date": "2026-05-04",
+      "date_start": "2026-05-04",
+      "date_end": "2026-05-04",
+      "person": "mayn"
+    },
+    {
+      "title": "中島愛 福岡公演",
+      "summary": "中島愛が福岡県の電気ビル みらいホールにて単独公演を開催。開場16:15、開演17:00。",
+      "url": "https://nakajima-megumi.jp/news/",
+      "source": "中島愛オフィシャルサイト",
+      "date": "2026-02-28",
+      "date_start": "2026-02-28",
+      "date_end": "2026-02-28",
+      "person": "nakajima"
+    },
+    {
+      "title": "中島愛「Anirevo Vancouver 2026」出演決定",
+      "summary": "中島愛がカナダ・バンクーバーで開催のアニメイベント「Anirevo Vancouver 2026」内のアニソンコンサート「Animusix」に出演することが決定。",
+      "url": "https://nakajima-megumi.jp/news/",
+      "source": "中島愛オフィシャルサイト",
+      "date": "2026-08-01",
+      "date_start": "2026-08-01",
+      "date_end": "2026-08-01",
       "person": "nakajima"
     }
   ]
