@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-08T10:04:48",
+  "collected_at": "2026-07-10T10:05:00",
   "items": [
     {
       "title": "【マクロスΔ】「POP UP SHOP 絶対SUMMERバカンス!!!!!!」開催決定！",
@@ -399,6 +399,56 @@
       "date": "2026-04-04",
       "date_start": "2026-04-04",
       "date_end": "2026-04-04",
+      "person": "nakajima"
+    },
+    {
+      "title": "河森正治×ホンダ・レーシング「挑め、情熱駆動」プロジェクト始動",
+      "summary": "HRC（ホンダ・レーシング）が河森正治とともに、モータースポーツの魅力を新たな視点で発信する新プロジェクト「挑め、情熱駆動」を始動と発表。続報はモビリティリゾートもてぎ・鈴鹿サーキットで予告された。",
+      "url": "https://car.watch.impress.co.jp/docs/news/2098889.html",
+      "source": "Car Watch",
+      "date": "2026-04-03",
+      "date_start": "2026-04-03",
+      "date_end": "2026-04-03",
+      "person": "kawamori"
+    },
+    {
+      "title": "河森正治『迷宮のしおり』公開記念トークライブ（梅田Lateral）",
+      "summary": "初のオリジナル長編アニメ『迷宮のしおり』公開から3週間を経て、大阪・梅田Lateralにて河森正治監督本人によるトークライブを開催。配信チケットも販売された。",
+      "url": "https://lateral-osaka.com/schedule/2026-01-20-18284/",
+      "source": "梅田Lateral",
+      "date": "2026-01-20",
+      "date_start": "2026-01-20",
+      "date_end": "2026-01-20",
+      "person": "kawamori"
+    },
+    {
+      "title": "河森正治「SATELIGHT 30th Anniversary SATEFES!」トークパート出演",
+      "summary": "アニメーション制作会社サテライトの設立30周年イベントに、河森正治監督が昼・夜公演両方のトークパートに出演。立川ステージガーデンにて開催。",
+      "url": "https://www.animatetimes.com/news/details.php?id=1769655263",
+      "source": "アニメイトタイムズ",
+      "date": "2026-02-11",
+      "date_start": "2026-02-11",
+      "date_end": "2026-02-11",
+      "person": "kawamori"
+    },
+    {
+      "title": "May'n「SATELIGHT 30th Anniversary SATEFES!」ライブパート追加出演決定",
+      "summary": "サテライト設立30周年イベントのライブパートに、『マクロスF』シェリル・ノームの歌を担当するMay'nの追加出演が決定。立川ステージガーデンにて2月11日開催。",
+      "url": "https://www.animatetimes.com/news/details.php?id=1769655263",
+      "source": "アニメイトタイムズ",
+      "date": "2026-02-11",
+      "date_start": "2026-02-11",
+      "date_end": "2026-02-11",
+      "person": "mayn"
+    },
+    {
+      "title": "中島愛「SATELIGHT 30th Anniversary SATEFES!」朗読劇＆ライブパート出演",
+      "summary": "サテライト設立30周年イベントに、ランカ・リー役の中島愛が新作書き下ろし朗読劇とライブパートの両方に出演。立川ステージガーデンにて2月11日開催。",
+      "url": "https://www.animatetimes.com/news/details.php?id=1769655263",
+      "source": "アニメイトタイムズ",
+      "date": "2026-02-11",
+      "date_start": "2026-02-11",
+      "date_end": "2026-02-11",
       "person": "nakajima"
     }
   ]
