@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-17T10:00:00",
+  "collected_at": "2026-07-21T00:39:39",
   "items": [
     {
       "title": "【マクロスΔ】「POP UP SHOP 絶対SUMMERバカンス!!!!!!」開催決定！",
@@ -460,6 +460,36 @@
       "date_start": "2026-07-07",
       "date_end": "2026-07-07",
       "person": "nakajima"
+    },
+    {
+      "title": "『マクロスΔ』10周年記念プロジェクト始動！ 記念イラスト入りのPVも公開",
+      "summary": "『マクロスΔ』のTV放送開始10周年を記念したプロジェクトが始動したことが発表された。実田千聖描きおろしの記念イラストを使ったPVも公開され、6月開催の展覧会など今後の展開が予告されている。",
+      "url": "https://dengekionline.com/article/202604/70830",
+      "source": "電撃オンライン",
+      "date": "2026-04-10",
+      "date_start": "2026-04-03",
+      "date_end": "2026-04-10",
+      "category": "news"
+    },
+    {
+      "title": "「マクロスΔ」HG 1/100 VF-31F ジークフリード(メッサー・イーレフェルト機) 12月発売",
+      "summary": "『マクロスΔ』のHG 1/100シリーズよりVF-31Fジークフリード(メッサー・イーレフェルト機)がプラモデル化され、2026年12月発売予定。専用デカールとカナメ・バッカニアのアクリルスタンドが付属するデラックスセットも同時発売。",
+      "url": "https://hobby.watch.impress.co.jp/docs/news/2112358.html",
+      "source": "HOBBY Watch",
+      "date": "2026-12-01",
+      "date_start": "2026-12-01",
+      "date_end": "2026-12-01",
+      "category": "goods"
+    },
+    {
+      "title": "「マクロスF」HG 1/100 VF-25G メサイアバルキリー(ミハエル・ブラン機) 9月発売",
+      "summary": "『マクロスF』のHG 1/100シリーズよりVF-25Gメサイアバルキリー(ミハエル・ブラン機)がプラモデル化決定。価格5,280円で2026年9月発売予定。差替三段変形システムで組みやすさと可動域を両立。",
+      "url": "https://hobby.watch.impress.co.jp/docs/news/2085193.html",
+      "source": "HOBBY Watch",
+      "date": "2026-09-01",
+      "date_start": "2026-09-01",
+      "date_end": "2026-09-01",
+      "category": "goods"
     }
   ]
 }
