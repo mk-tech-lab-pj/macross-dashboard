@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-07T10:04:28",
+  "collected_at": "2026-08-13T09:35:00",
   "items": [
     {
       "title": "【劇場版マクロスΔ 激情のワルキューレ】「どまんなかアニメ映画祭:new era2」にて上映決定！",
@@ -530,6 +530,36 @@
       "date_start": "2026-07-24",
       "date_end": "2026-07-24",
       "person": "mayn"
+    },
+    {
+      "title": "河森正治「超時空シアター」復活プロジェクト キャラバンバージョン第一弾 万博記念公園にて開催",
+      "summary": "2025年大阪・関西万博で公開されたXR体験「超時空シアター」の巡回復活プロジェクト第一弾が万博記念公園EXPO'70パビリオンにて8月29日より開催。河森正治が監督、音楽を菅野よう子が担当し、開幕日には河森本人が立ち会う予定。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000040.000122231.html",
+      "source": "PR TIMES",
+      "date": "2026-08-29",
+      "date_start": "2026-08-29",
+      "date_end": "2026-08-29",
+      "person": "kawamori"
+    },
+    {
+      "title": "中島愛 Acoustic Live Tour \"like a bird\" 大阪公演",
+      "summary": "中島愛のアコースティックライブツアー「like a bird」が大阪・ドーンセンターにて開幕。開場16:15、開演17:00で実施され、ツアーは福岡・東京へと続く。",
+      "url": "https://nakajima-megumi.jp/live-event/72-2/",
+      "source": "中島愛オフィシャルサイト",
+      "date": "2026-01-18",
+      "date_start": "2026-01-18",
+      "date_end": "2026-01-18",
+      "person": "nakajima"
+    },
+    {
+      "title": "中島愛 Acoustic Live Tour \"like a bird\" 東京公演（SHIBUYA PLEASURE PLEASURE）",
+      "summary": "中島愛のアコースティックライブツアー「like a bird」の東京公演がSHIBUYA PLEASURE PLEASUREにて昼夜2公演で開催。終演後のお見送り会も予定されている。",
+      "url": "https://nakajima-megumi.jp/live-event/72-2/",
+      "source": "中島愛オフィシャルサイト",
+      "date": "2026-03-29",
+      "date_start": "2026-03-29",
+      "date_end": "2026-03-29",
+      "person": "nakajima"
     }
   ]
 }
