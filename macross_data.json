@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-13T09:35:00",
+  "collected_at": "2026-08-17T13:03:11",
   "items": [
     {
       "title": "【劇場版マクロスΔ 激情のワルキューレ】「どまんなかアニメ映画祭:new era2」にて上映決定！",
@@ -560,6 +560,26 @@
       "date_start": "2026-03-29",
       "date_end": "2026-03-29",
       "person": "nakajima"
+    },
+    {
+      "title": "【マクロスΔ】「POP UP SHOP 絶対SUMMERバカンス!!!!!!」会場限定マクロス御朱印 販売決定",
+      "summary": "8月8日よりeeo Store池袋本店で開催の「POP UP SHOP 絶対SUMMERバカンス!!!!!!」にて、会場限定マクロス御朱印（550円）の販売が決定。おひとり様2点までの数量限定で、超時空御朱印帳ver.2.0（3,300円）も同時展開される。",
+      "url": "https://macross.jp/contents/1090846",
+      "source": "MACROSS OFFICIAL SITE",
+      "date": "2026-08-08",
+      "date_start": "2026-08-08",
+      "date_end": "2026-08-08",
+      "category": "goods"
+    },
+    {
+      "title": "May'n 新アーティスト写真解禁＆オリジナル新曲『Fly me to the エンド！☆』始動",
+      "summary": "May'nの新アーティスト写真が公開され、オリジナル新楽曲『Fly me to the エンド！☆』のリリースに向けた活動がスタートしたことを発表。楽曲は8月3日よりゲーム「eアクセルワールド」に先行導入されており、続報は公式サイトで発表予定。",
+      "url": "https://mayn.jp/news/media/%E3%80%90%E6%96%B0%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%86%99%E7%9C%9F%E8%A7%A3%E7%A6%81%EF%BC%81%E3%80%91%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%96%B0%E6%A5%BD%E6%9B%B2/",
+      "source": "May'n Official Site",
+      "date": "2026-08-06",
+      "date_start": "2026-08-06",
+      "date_end": "2026-08-06",
+      "person": "mayn"
     }
   ]
 }
