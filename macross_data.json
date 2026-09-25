@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-24T09:39:04",
+  "collected_at": "2026-09-25T01:09:15",
   "items": [
     {
       "title": "「Anime Otapia 2026」にMay'nが出演決定",
@@ -664,6 +664,48 @@
       "date_start": "2026-09-20",
       "date_end": "2026-09-21",
       "person": "kawamori"
+    },
+    {
+      "title": "「ROAD TO MACROSS CROSSOVER 2026」スタンダード会員チケット先行(抽選)受付開始",
+      "summary": "9月15日18時よりスタンダード会員を対象としたチケット先行(抽選制)受付が開始され、受付は同22日23:59まで実施された。プレミアム会員向けの抽選受付は9月8日から15日まで先行して行われている。",
+      "url": "https://macross.jp/contents/1106443#update-20260915",
+      "related_url": "https://macross.jp/contents/1106443",
+      "source": "MACROSS OFFICIAL SITE",
+      "date": "2026-09-22",
+      "date_start": "2026-09-15",
+      "date_end": "2026-09-22",
+      "category": "events",
+      "is_update": true
+    },
+    {
+      "title": "May'n All Requests Live Tour 2026「ひらがな はんぐじゃむ」チケット一般発売開始",
+      "summary": "「ひらがな はんぐじゃむ」ツアーのチケット一般発売が8月22日にスタート。東京(10/20-21)・岡山(11/6)・福岡(11/7)・大阪(11/13)・京都(11/14)・愛知(12/4)・北海道(12/6)・宮城(12/18)ほか全国で開催されるツアーの正式発売告知。",
+      "url": "https://mayn.jp/news/live/%E3%80%90%E3%83%81%E3%82%B1%E3%83%83%E3%83%88%E4%B8%80%E8%88%AC%E7%99%BA%E5%A3%B2%E9%96%8B%E5%A7%8B%EF%BC%81%E3%80%91mayn-all-requests-live-tour-2026-%E3%80%8C%E3%81%B2%E3%82%89%E3%81%8C/",
+      "source": "May'n Official Site",
+      "date": "2026-08-22",
+      "date_start": "2026-08-22",
+      "date_end": "2026-08-22",
+      "person": "mayn"
+    },
+    {
+      "title": "中島愛 Acoustic Live Tour \"like a bird\" in KOBE",
+      "summary": "アコースティックライブツアー「like a bird」の追加公演として、兵庫・神戸公演が2026年10月17日に開催決定。ツアーは2026年1月に開幕し、秋以降も全国で継続される。",
+      "url": "https://nakajima-megumi.jp/news/143/",
+      "source": "中島愛オフィシャルサイト",
+      "date": "2026-10-17",
+      "date_start": "2026-10-17",
+      "date_end": "2026-10-17",
+      "person": "nakajima"
+    },
+    {
+      "title": "中島愛 ファンクラブ限定「まめぐからの暑中見舞い2026」抽選プレゼント",
+      "summary": "ファンクラブ「LOVE with YOU」限定企画として、中島愛直筆サイン・メッセージ入りカードが当たる抽選プレゼント企画の応募受付が7月20日に開始された。",
+      "url": "https://nakajima-megumi.jp/news/147/",
+      "source": "中島愛オフィシャルサイト",
+      "date": "2026-07-20",
+      "date_start": "2026-07-20",
+      "date_end": "2026-07-20",
+      "person": "nakajima"
     }
   ]
 }
