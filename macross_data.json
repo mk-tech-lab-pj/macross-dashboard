@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-07T10:11:29",
+  "collected_at": "2026-10-09T10:55:00",
   "items": [
     {
       "title": "「Anime Otapia 2026」にMay'nが出演決定",
@@ -826,6 +826,46 @@
       "date_start": "2026-10-05",
       "date_end": "2026-10-05",
       "person": "mayn"
+    },
+    {
+      "title": "「ROAD TO MACROSS CROSSOVER 2026 〜Sheryl x Mikumo〜」開催記念グッズ販売",
+      "summary": "10月25日開催のシェリル×美雲イベントの記念グッズ（Tシャツ全3色、缶バッジ3個セット、チケット風クリアカード、マフラータオル）が販売されます。受注販売・会場受取の受付は10月11日23:59まで、イベント当日は会場物販も実施され、受注分は11月下旬頃から発送予定です。",
+      "url": "https://macross.jp/contents/1112684",
+      "source": "MACROSS OFFICIAL SITE",
+      "date": "2026-10-11",
+      "date_start": "2026-10-11",
+      "date_end": "2026-10-11",
+      "category": "goods"
+    },
+    {
+      "title": "ハセガワ 1/72「マクロスゼロ」F-14／ミグ29 プラモデル発送",
+      "summary": "ハセガワから『マクロスゼロ』に登場するF-14とミグ29の1/72プラモデル新製品2種が10月16日に発送予定です。各3,300円（税込）で、作中の機体を再現したキットとなっています。",
+      "url": "http://www.hasegawa-model.co.jp/product/65911/",
+      "source": "ハセガワ",
+      "date": "2026-10-16",
+      "date_start": "2026-10-16",
+      "date_end": "2026-10-16",
+      "category": "goods"
+    },
+    {
+      "title": "ハセガワ 1/72 VF-0A ガウォーク w/ゴースト「マクロスゼロ」発送",
+      "summary": "ハセガワの1/72新製品として、『マクロスゼロ』のVF-0Aガウォーク（ゴースト付き）が11月13日に発送予定です。既発のVF-0Sガウォークに続くバリエーションキットです。",
+      "url": "http://www.hasegawa-model.co.jp/product/65913/",
+      "source": "ハセガワ",
+      "date": "2026-11-13",
+      "date_start": "2026-11-13",
+      "date_end": "2026-11-13",
+      "category": "goods"
+    },
+    {
+      "title": "ハセガワ 1/72 VF-1D バルキリー“バージンロード” 発送",
+      "summary": "ハセガワから1/72新製品「VF-1D バルキリー“バージンロード”」が2027年1月22日に発送予定と案内されています。『超時空要塞マクロス』のVF-1D複座型をモチーフにした新キットです。",
+      "url": "http://www.hasegawa-model.co.jp/product/65914/",
+      "source": "ハセガワ",
+      "date": "2027-01-22",
+      "date_start": "2027-01-22",
+      "date_end": "2027-01-22",
+      "category": "goods"
     }
   ]
 }
