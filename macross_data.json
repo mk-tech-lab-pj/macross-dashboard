@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-09T10:55:00",
+  "collected_at": "2026-10-13T10:15:00",
   "items": [
     {
       "title": "「Anime Otapia 2026」にMay'nが出演決定",
@@ -865,6 +865,38 @@
       "date": "2027-01-22",
       "date_start": "2027-01-22",
       "date_end": "2027-01-22",
+      "category": "goods"
+    },
+    {
+      "title": "「ROAD TO MACROSS CROSSOVER 2026」出演者への質問＆シェリルと美雲のデュエット楽曲リクエスト募集",
+      "summary": "10月25日開催のクロスオーバーイベントに向け、出演者への質問と、シェリルと美雲にデュエットしてほしい「マクロス」シリーズ楽曲のリクエストを回答フォームで募集中。投稿期間は9月15日18:00から10月24日23:59まで。",
+      "url": "https://macross.jp/contents/1106443#update-20261024",
+      "related_url": "https://macross.jp/contents/1106443",
+      "source": "MACROSS OFFICIAL SITE",
+      "date": "2026-10-24",
+      "date_start": "2026-09-15",
+      "date_end": "2026-10-24",
+      "category": "events",
+      "is_update": true
+    },
+    {
+      "title": "『マクロス7』全52話 YouTube「マクロスch」で期間限定無料公開",
+      "summary": "『マクロス7 Re.MASTER FIRE!!』4K UHD BD-BOXのリクエスト販売を記念し、TV未放映3話を含む全52話がYouTube「マクロスch」で順次プレミア公開。4月29日21:30の第1〜3話を皮切りに、毎週水・金曜に3話ずつ配信された。",
+      "url": "https://mechacomic.jp/free/mechamaga/news/191241",
+      "source": "めちゃマガ",
+      "date": "2026-05-06",
+      "date_start": "2026-04-29",
+      "date_end": "2026-05-06",
+      "category": "news"
+    },
+    {
+      "title": "「マクロスプラス MOVIE EDITION 4Kリマスターセット」発売",
+      "summary": "劇場公開30周年を記念し、マスターフィルム再スキャンによる4Kリマスター本編を4K UHD BDとBDに収録したセットが3月25日に発売。板野一郎描き下ろし収納BOX付きの特装限定版と、原画集・アクリルパネル付きの初回限定版が用意された。",
+      "url": "https://animeanime.jp/release/prtimes/20260324/276865.html",
+      "source": "アニメ！アニメ！",
+      "date": "2026-03-25",
+      "date_start": "2026-03-25",
+      "date_end": "2026-03-25",
       "category": "goods"
     }
   ]
