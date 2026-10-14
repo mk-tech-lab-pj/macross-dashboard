@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-13T10:15:00",
+  "collected_at": "2026-10-14T10:30:00",
   "items": [
     {
       "title": "「Anime Otapia 2026」にMay'nが出演決定",
@@ -898,6 +898,40 @@
       "date_start": "2026-03-25",
       "date_end": "2026-03-25",
       "category": "goods"
+    },
+    {
+      "title": "「ROAD TO MACROSS CROSSOVER 2026」チケットキャンセル分 先着販売（プレミアム／スタンダード会員限定）",
+      "summary": "10月25日開催のシェリル×美雲クロスオーバーイベントについて、キャンセル分のチケットを若干数、マクロス魂プレミアム／スタンダード会員限定で先着販売。販売開始は10月16日(金)18:00で、1会員1枚まで、予定枚数に達し次第終了。",
+      "url": "https://macross.jp/contents/1106443#update-20261016",
+      "related_url": "https://macross.jp/contents/1106443",
+      "source": "MACROSS OFFICIAL SITE",
+      "date": "2026-10-16",
+      "date_start": "2026-10-16",
+      "date_end": "2026-10-16",
+      "category": "events",
+      "is_update": true
+    },
+    {
+      "title": "「ROAD TO MACROSS CROSSOVER 2026」会場グッズ販売のご案内",
+      "summary": "10月25日のイベント当日、KT Zepp Yokohamaの物販ブースでグッズ販売を実施。開場前14:00〜16:30はマクロス魂会員（チケット無しでも可）、開場後17:00〜18:00は公演チケット所持者が利用できる。",
+      "url": "https://macross.jp/contents/1106443#update-20261025",
+      "related_url": "https://macross.jp/contents/1106443",
+      "source": "MACROSS OFFICIAL SITE",
+      "date": "2026-10-25",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-25",
+      "category": "events",
+      "is_update": true
+    },
+    {
+      "title": "May'n「ひらがな はんぐじゃむ -まとめ-」横浜公演 プレイガイド先行受付開始",
+      "summary": "12月22日(火)横浜ランドマークホールで開催されるリクエストツアーの集大成「まとめ」公演の、イープラス・チケットぴあ・ローソンチケット各プレイガイド先行が10月13日12:00から始まった。国内・台湾公演19通りのセットリストから1曲ずつ選んで届ける構成。",
+      "url": "https://mayn.jp/news/live/%e3%80%90%e3%83%81%e3%82%b1%e3%83%83%e3%83%88%e3%83%97%e3%83%ac%e3%82%a4%e3%82%ac%e3%82%a4%e3%83%89%e5%85%88%e8%a1%8c%e5%8f%97%e4%bb%98%e9%96%8b%e5%a7%8b%ef%bc%81%e3%80%91mayn-all-requests-li/",
+      "source": "May'n Official Site",
+      "date": "2026-10-13",
+      "date_start": "2026-10-13",
+      "date_end": "2026-10-13",
+      "person": "mayn"
     }
   ]
 }
