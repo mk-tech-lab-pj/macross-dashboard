@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-16T10:07:44",
+  "collected_at": "2026-10-19T13:14:27",
   "items": [
     {
       "title": "「Anime Otapia 2026」にMay'nが出演決定",
@@ -952,6 +952,38 @@
       "date_start": "2026-10-17",
       "date_end": "2026-10-17",
       "person": "nakajima"
+    },
+    {
+      "title": "「ROAD TO MACROSS CROSSOVER 2026」祝い花・プレゼント等に関するご案内",
+      "summary": "10月25日のKT Zepp Yokohama公演について、出演者への楽屋花・プレゼント・手紙などの差し入れは受け取り辞退となり、プレゼントBOXも設置されない。スタンド花のみ受付で、サイズや搬入・回収日時の規定は専用案内ページで確認が必要。",
+      "url": "https://macross.jp/contents/1106443#update-20261019",
+      "related_url": "https://macross.jp/contents/1106443",
+      "source": "MACROSS OFFICIAL SITE",
+      "date": "2026-10-25",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-25",
+      "category": "events",
+      "is_update": true
+    },
+    {
+      "title": "May'n「ひらがな はんぐじゃむ」東京公演 ふぁんくラ部会員向けピクチャーチケット配布",
+      "summary": "10月20日・21日の東京公演（東京キネマ倶楽部）に来場するファンクラブ「ふぁんくラ部」会員へ、物販スペースでデジタル会員証を提示するとピクチャーチケットが配布される。配布は物販先行販売開始から終演後まで。",
+      "url": "https://mayn.jp/news/live/%e3%80%90%e3%83%94%e3%82%af%e3%83%81%e3%83%a3%e3%83%bc%e3%83%81%e3%82%b1%e3%83%83%e3%83%88%e9%85%8d%e5%b8%83%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85%e3%80%91mayn-all-requests-live-tour-2026-%e3%80%8c/",
+      "source": "May'n Official Site",
+      "date": "2026-10-20",
+      "date_start": "2026-10-20",
+      "date_end": "2026-10-20",
+      "person": "mayn"
+    },
+    {
+      "title": "May'n「ひらがな はんぐじゃむ」来場者向け 楽曲リクエスト方法のご案内",
+      "summary": "ツアー各公演では入場時に番号札が配られ、ライブ中にMay'n本人が抽選した番号の観客に楽曲リクエスト権が与えられる。当選者はマイクを受け取り、聴きたいMay'nの曲を直接伝える形式で、番号札は当日公演のみ有効。",
+      "url": "https://mayn.jp/news/live/199046-2/",
+      "source": "May'n Official Site",
+      "date": "2026-10-20",
+      "date_start": "2026-10-20",
+      "date_end": "2026-10-20",
+      "person": "mayn"
     }
   ]
 }
