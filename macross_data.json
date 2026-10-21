@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-19T13:14:27",
+  "collected_at": "2026-10-21T10:11:49",
   "items": [
     {
       "title": "「Anime Otapia 2026」にMay'nが出演決定",
@@ -913,7 +913,7 @@
     },
     {
       "title": "「ROAD TO MACROSS CROSSOVER 2026」会場グッズ販売のご案内",
-      "summary": "10月25日のイベント当日、KT Zepp Yokohamaの物販ブースでグッズ販売を実施。開場前14:00〜16:30はマクロス魂会員（チケット無しでも可）、開場後17:00〜18:00は公演チケット所持者が利用できる。",
+      "summary": "10月25日のイベント当日、KT Zepp Yokohamaの物販ブースで開催記念グッズに加え、会場限定マクロス御朱印と「超時空御朱印帳 ver.2.0」も販売。開場前14:00〜16:30はマクロス魂会員（チケット無しでも可）、開場後17:00〜20:30は公演チケット所持者が利用できる。",
       "url": "https://macross.jp/contents/1106443#update-20261025",
       "related_url": "https://macross.jp/contents/1106443",
       "source": "MACROSS OFFICIAL SITE",
@@ -984,6 +984,30 @@
       "date_start": "2026-10-20",
       "date_end": "2026-10-20",
       "person": "mayn"
+    },
+    {
+      "title": "「ROAD TO MACROSS CROSSOVER 2026」期間限定グループチャット開設",
+      "summary": "イベントに連動し、Bitfanアプリ内にマクロス魂プレミアム／スタンダード会員向けの期間限定グループチャットが10月23日18:00〜28日23:59に開設される。期間中に投稿した人の中から抽選で3名に直筆サイン入りTシャツが当たる。",
+      "url": "https://macross.jp/contents/1106443#update-20261023",
+      "related_url": "https://macross.jp/contents/1106443",
+      "source": "MACROSS OFFICIAL SITE",
+      "date": "2026-10-28",
+      "date_start": "2026-10-23",
+      "date_end": "2026-10-28",
+      "category": "events",
+      "is_update": true
+    },
+    {
+      "title": "「ROAD TO MACROSS CROSSOVER 2026」開催記念グッズ 会場受取のご案内",
+      "summary": "会場受取で事前注文したグッズは、10月25日14:00〜16:30にKT Zepp Yokohamaの受取窓口で受け取れる（開場後は不可）。デジタル会員証・マイページの受取用QRコード（スクショ不可）・本人確認書類が必要で、受注販売・会場受取の注文受付はすでに終了している。",
+      "url": "https://macross.jp/contents/1112684#update-20261025",
+      "related_url": "https://macross.jp/contents/1112684",
+      "source": "MACROSS OFFICIAL SITE",
+      "date": "2026-10-25",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-25",
+      "category": "goods",
+      "is_update": true
     }
   ]
 }
