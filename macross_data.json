@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-21T10:11:49",
+  "collected_at": "2026-10-23T10:12:03",
   "items": [
     {
       "title": "「Anime Otapia 2026」にMay'nが出演決定",
@@ -1008,6 +1008,68 @@
       "date_end": "2026-10-25",
       "category": "goods",
       "is_update": true
+    },
+    {
+      "title": "「ROAD TO MACROSS CROSSOVER 2026」公演ご入場時の本人確認について",
+      "summary": "10月25日のKT Zepp Yokohama公演では、来場者全員に会員確認と本人確認が実施される。入場時には公演チケット、「マクロス魂」マイページのデジタル会員証、本人確認書類の3点が必要で、会員証のスクリーンショットは不可。公演当日も有効な会員資格が必要となる。",
+      "url": "https://macross.jp/contents/1106443#update-20261025-idcheck",
+      "source": "MACROSS OFFICIAL SITE",
+      "date": "2026-10-25",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-25",
+      "category": "events",
+      "related_url": "https://macross.jp/contents/1106443",
+      "is_update": true
+    },
+    {
+      "title": "グッドスマイルカンパニーが「マクロスモデラーズ」に参加",
+      "summary": "グッドスマイルカンパニーがプラモデルブランド「マクロスモデラーズ」への参加を10月8日に発表した。ロボットホビーレーベル「メカスマ」のMODEROIDシリーズで、マクロスシリーズ登場メカのプラモデル化を予定している。",
+      "url": "https://hobby.watch.impress.co.jp/docs/news/2147213.html",
+      "source": "HOBBY Watch",
+      "date": "2026-10-15",
+      "date_start": "2026-10-08",
+      "date_end": "2026-10-15",
+      "category": "news"
+    },
+    {
+      "title": "マクロスHGシリーズで「VF-1J バルキリー」商品化決定（全日本模型ホビーショー）",
+      "summary": "BANDAI SPIRITSが第64回全日本模型ホビーショーで、HGブランドによる『超時空要塞マクロス』VF-1J バルキリーの商品化を発表した。発売日・価格は未定で、11月5日22時からの「マクロスモデラーズ」SHOWROOM配信で詳細が公開される予定。",
+      "url": "https://hobby.watch.impress.co.jp/docs/news/2145088.html",
+      "source": "HOBBY Watch",
+      "date": "2026-10-09",
+      "date_start": "2026-10-02",
+      "date_end": "2026-10-09",
+      "category": "news"
+    },
+    {
+      "title": "「マクロスモデラーズ」SHOWROOM配信（HG VF-1J詳細公開予定）",
+      "summary": "11月5日22時から「マクロスモデラーズ」のSHOWROOM配信が行われる予定。BANDAI SPIRITSが発表したHG VF-1J バルキリーの詳細がこの配信で公開されるとされている。",
+      "url": "https://hobby.watch.impress.co.jp/docs/news/2145088.html#showroom-20261105",
+      "source": "HOBBY Watch",
+      "date": "2026-11-05",
+      "date_start": "2026-11-05",
+      "date_end": "2026-11-05",
+      "category": "events"
+    },
+    {
+      "title": "PLAMAX PX18 1/72 VF-1J アーマードバルキリー 出荷開始",
+      "summary": "マックスファクトリーのプラモデル「PLAMAX PX18 1/72 VF-1J アーマードバルキリー」が10月6日に出荷開始された。価格は7,480円で、変形・装備脱着機構を省いて設定画に近いまとまった姿を再現し、リン・ミンメイ（ミスマクロスコンテストVer.）フィギュアが付属する。",
+      "url": "https://hobby.watch.impress.co.jp/docs/news/2145490.html",
+      "source": "HOBBY Watch",
+      "date": "2026-10-06",
+      "date_start": "2026-10-06",
+      "date_end": "2026-10-06",
+      "category": "goods"
+    },
+    {
+      "title": "PLAMAX VF-1J スーパーバトロイド（マックス機/ミリア機）2027年4月発売決定",
+      "summary": "マックスファクトリーが『超時空要塞マクロス』より「PLAMAX VF-1J スーパーバトロイド（マックス機/ミリア機）」を2027年4月に発売すると10月9日に発表した。",
+      "url": "https://hobby.watch.impress.co.jp/docs/news/2147077.html",
+      "source": "HOBBY Watch",
+      "date": "2026-10-16",
+      "date_start": "2026-10-09",
+      "date_end": "2026-10-16",
+      "category": "news"
     }
   ]
 }
