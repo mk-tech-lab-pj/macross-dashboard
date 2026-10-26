@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-23T10:12:03",
+  "collected_at": "2026-10-26T10:30:00",
   "items": [
     {
       "title": "「Anime Otapia 2026」にMay'nが出演決定",
@@ -1070,6 +1070,66 @@
       "date_start": "2026-10-09",
       "date_end": "2026-10-16",
       "category": "news"
+    },
+    {
+      "title": "マクロスF ミニCDコレクション2 ガシャポンに登場",
+      "summary": "バンダイのガシャポン「マクロスF ミニCDコレクション」第2弾が2026年11月に登場予定。『劇場版マクロスF』のCDジャケットを中心とした全8種（1回400円）で、同梱の二次元コードから楽曲を聴ける仕様です。",
+      "url": "https://macross.jp/contents/1119476",
+      "source": "MACROSS OFFICIAL SITE",
+      "date_start": "2026-11-01",
+      "date_end": "2026-11-01",
+      "category": "goods",
+      "date": "2026-11-01"
+    },
+    {
+      "title": "ROAD TO MACROSS CROSSOVER 2026 会場限定マクロス御朱印",
+      "summary": "10月25日にKT Zepp Yokohamaで開催の「ROAD TO MACROSS CROSSOVER 2026 〜Sheryl x Mikumo〜」にて、会場限定のマクロス御朱印（600円・1人2点まで）を販売。他会場での販売予定はありません。",
+      "url": "https://macross.jp/contents/1117001",
+      "source": "MACROSS OFFICIAL SITE",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-25",
+      "category": "goods",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "DX超合金 VF-1J スーパーバルキリー（マクシミリアン・ジーナス機）",
+      "summary": "シリーズ45周年記念としてBANDAI SPIRITSのDX超合金からマックス機VF-1Jが初立体化され、専用スーパーパーツも付属。10月2日から魂ウェブ商店で受注開始、2027年3月発売予定で価格は36,300円（税込）です。",
+      "url": "https://macross.jp/contents/1115267",
+      "source": "MACROSS OFFICIAL SITE",
+      "date_start": "2027-03-01",
+      "date_end": "2027-03-01",
+      "category": "goods",
+      "date": "2027-03-01"
+    },
+    {
+      "title": "Go To 浅草！超時空修学旅行 会場限定マクロス御朱印",
+      "summary": "10月2日から松屋浅草で開催の「マクロスポップアップストア Go To 浅草！超時空修学旅行」にて、会場限定のマクロス御朱印（550円・1人2点まで）を販売。数量限定でなくなり次第終了です。",
+      "url": "https://macross.jp/contents/1110804",
+      "source": "MACROSS OFFICIAL SITE",
+      "date_start": "2026-10-02",
+      "date_end": "2026-10-02",
+      "category": "goods",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "May'n 20th Anniversary Live Blu-ray BOX「THE BEST with You」発売決定",
+      "summary": "May'nの20周年記念ライブBlu-ray BOXの発売が発表されました。2025年5月のパシフィコ横浜2公演と、2026年3月21日のZepp Haneda公演「THE BEST of May'n」を収録予定で、発売日は後日発表です。",
+      "url": "https://mayn.jp/news/release/mayn-20th-anniversary-live-blu-ray-box%e3%80%8cthe-best-with-you%e3%80%8d-%e7%99%ba%e5%a3%b2%e6%b1%ba%e5%ae%9a%ef%bc%81/",
+      "source": "May'n Official Site",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-25",
+      "person": "mayn",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "May'n「ROAD TO MACROSS CROSSOVER 2026 〜Sheryl×Mikumo〜」出演",
+      "summary": "May'nがシェリル・ノーム役の歌唱担当として、10月25日にKT Zepp Yokohamaで開催の「ROAD TO MACROSS CROSSOVER 2026 〜Sheryl×Mikumo〜 powered by 超時空ファンクラブ マクロス魂」に出演。美雲とのクロスオーバー公演です。",
+      "url": "https://mayn.jp/news/live/%e3%80%90mayn%e5%87%ba%e6%bc%94%e6%83%85%e5%a0%b1%e3%80%91road-to-macross-crossover-2026-%e3%80%9csherylxmikumo%e3%80%9c%f0%9f%8c%b9powered-by-%e8%b6%85%e6%99%82%e7%a9%ba%e3%83%95/",
+      "source": "May'n Official Site",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-25",
+      "person": "mayn",
+      "date": "2026-10-25"
     }
   ]
 }
