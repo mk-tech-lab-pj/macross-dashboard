@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-06T10:30:00",
+  "collected_at": "2026-11-09T10:30:00",
   "items": [
     {
       "title": "「Anime Otapia 2026」にMay'nが出演決定",
@@ -1210,6 +1210,46 @@
       "date_start": "2027-03-13",
       "date_end": "2027-03-13",
       "person": "mayn"
+    },
+    {
+      "title": "ワルキューレ『マクロスΔ』10周年記念シングル「ワルキューレは負けられない」発売決定",
+      "summary": "ワルキューレが約4年ぶりの新曲として、10周年記念シングル「ワルキューレは負けられない」を2027年3月24日に発売することがSHOWROOM特番で発表されました。初回限定盤には根元歳三脚本・河森正治監督の新作オーディオドラマ「狂走のワルキューレ」が付属します。11月5日からは歴代MVフルバージョンが毎週木曜にフライングドッグ公式YouTubeで順次公開されます。",
+      "url": "https://realsound.jp/2026/10/post-2568984.html",
+      "source": "Real Sound",
+      "date": "2026-11-05",
+      "date_start": "2026-10-29",
+      "date_end": "2026-11-05",
+      "category": "news"
+    },
+    {
+      "title": "河森正治 サイバーマシンデザイン担当『新世紀GPXサイバーフォーミュラ ASURADA』劇場上映決定",
+      "summary": "『サイバーフォーミュラ』35周年記念の新作ショートアニメ『ASURADA』が、TVシリーズ総集編HDリマスター版と同時に2027年2月19日から全国25館で上映されることが発表されました。河森正治さんがサイバーマシンデザインを担当し、新規マシン「ゼニスアスラーダ AKFS0/G」「鳳・凰呀 AA-1」のデザインも公開されています。",
+      "url": "https://news.denfaminicogamer.jp/news/260926d",
+      "source": "電ファミニコゲーマー",
+      "date": "2026-09-26",
+      "date_start": "2026-09-26",
+      "date_end": "2026-09-26",
+      "person": "kawamori"
+    },
+    {
+      "title": "May'n「スーパーロボット魂2027“春の陣”」東京day1出演決定",
+      "summary": "May'nが2027年4月24日にZepp DiverCity（TOKYO）で開催される「スーパーロボット魂2027東京day1 ~Infinity~」に出演することが発表されました。チケット詳細はイベント公式サイトで案内されています。",
+      "url": "https://mayn.jp/news/live/%e3%80%90mayn%e5%87%ba%e6%bc%94%e6%83%85%e5%a0%b1%ef%bc%81%e3%80%91-%e3%80%8c%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%83%ad%e3%83%9c%e3%83%83%e3%83%88%e9%ad%822027%e6%98%a5%e3%81%ae/",
+      "source": "May'n Official Site",
+      "date": "2027-04-24",
+      "date_start": "2027-04-24",
+      "date_end": "2027-04-24",
+      "person": "mayn"
+    },
+    {
+      "title": "中島愛 Podcast「滔々咄」に2週連続ゲスト出演",
+      "summary": "中島愛さんが石井玄さんのPodcast番組「滔々咄」の#126・#127に、神田莉緒香さんとともに2週連続でゲスト出演しました。SpotifyやApple Podcastで配信中で、メンバーシップ限定のアフタートークもあります。",
+      "url": "https://nakajima-megumi.jp/news/151/",
+      "source": "中島愛オフィシャルサイト",
+      "date": "2026-11-05",
+      "date_start": "2026-11-05",
+      "date_end": "2026-11-05",
+      "person": "nakajima"
     }
   ]
 }
